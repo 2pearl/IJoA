@@ -1,6 +1,6 @@
 # 아이조아
 
-![localhost_5173_ (1)](https://github.com/user-attachments/assets/647c6578-bf16-4e3f-887e-b6813008be0c)
+![Logo](https://github.com/user-attachments/assets/d11b9fb0-f894-4e4d-a993-a21db59ad45f)
 
 ### **삼성 청년 SW 아카데미(SSAFY) 11th 자율 프로젝트**
 
@@ -8,7 +8,16 @@
 
 ## 🙋‍♂️ 팀원 소개
 
-![팀원](https://github.com/user-attachments/assets/929ad517-d627-4aa4-a236-3a341c4a315c)
+<table>    
+    <tr align="center" > 
+        <td><strong>FrontEnd</strong></td>
+        <td><strong>BackEnd</strong></td>
+    </tr>
+    <tr align="center"> 
+        <td><img src="https://github.com/user-attachments/assets/48b9c026-b99e-4164-910d-b88ee4b44482" alt="팀원소개1" /></td>
+        <td><img src="https://github.com/user-attachments/assets/602463c9-5def-40b6-9933-244a5109ed80" alt="팀원소개2" /></td>
+    </tr>
+</table>
 
 ## 🛠 기술스택
 
