@@ -397,8 +397,8 @@ AI를 활용한 목소리 학습을 통해 아이들이 독서에 흥미를 느�
         <td><strong>API 명세서</strong></td>
     </tr>
     <tr align="center">
-        <td> <img src="https://github.com/user-attachments/assets/14f47563-fab9-4bfa-9f1a-214467f5ae4a"></td>
-        <td> <img src="https://github.com/user-attachments/assets/c70afb58-b73e-4f28-ae76-7788c84ba8d4"></td>
+        <td> <img src="https://github.com/user-attachments/assets/3ebd2c09-4598-4cdf-a35e-64a24aef2ff8" alt="목업.png" /></td>
+        <td> <img src="https://github.com/user-attachments/assets/0d611b72-52fb-46fa-9744-588fe8ea1bc0" alt="API명세.png" /></td>
     </tr>
 </table>
 <table>
